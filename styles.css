@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: rgb(181, 38, 38);
+
+}
+
+#start-title {
+    margin: 2% 0% 0% 0%;
+}
+
+#content {
+    background-color: rgb(88, 152, 45);
+    margin: 4% 0%;
+    filter: blur(5px);
+    transition: filter 0.5s ease;
+}
+
+#score-title {
+    padding: 2%;
+    background-color: rgb(255, 238, 0);
+}
+
+#random-number, #current-number {
+    padding: 1%;
+    font-size: xx-large;
+}
+
+#submission {
+    padding: 1%;
+    margin: 6% 0% 12%;
+}
